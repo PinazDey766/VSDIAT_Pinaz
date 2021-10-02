@@ -135,7 +135,7 @@ Here we get 512 steps in the analog output as the system was given 9 digital inp
 ![schematic](ScreenShots/10bitcircuit.png)
 > Fig.20 Circuit Schematic of a 10-bit DAC designed in eSim
 
-![sim](ScreenShots/9biit.png)
+![sim](ScreenShots/9bit.png)
 > Fig.21 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 1024 steps in the analog output as the system was given 10 digital input bits.
