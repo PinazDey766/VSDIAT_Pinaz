@@ -57,7 +57,7 @@ We 2^2 = 4 steps in the analog output.
 ![3bit](ScreenShots/3bitcircuit.png)
 > Fig.6 Circuit Schematic of a 3-bit DAC designed in eSim
 
-![3bitspice](ScreenShots/3biit.png)
+![3bitspice](ScreenShots/3bit.png)
 > Fig.7 Transient Analysis of the 2-bit circuit in pgspice
 
 
@@ -69,7 +69,7 @@ Here we get 8 steps in the analog output as the system was given 3 digital input
 ![schematic](ScreenShots/4bitcircuit.png)
 > Fig.8 Circuit Schematic of a 4-bit DAC designed in eSim 
 
-![cktlevelsim](ScreenShots/4biit.png)
+![cktlevelsim](ScreenShots/4bit.png)
 > Fig.9 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 16 steps in the analog output as the system was given 4 digital input bits.
@@ -80,7 +80,7 @@ Here we get 16 steps in the analog output as the system was given 4 digital inpu
 ![schematic](ScreenShots/5bitcircuit.png)
 > Fig.10 Circuit Schematic of a 5-bit DAC designed in eSim
 
-![sim](ScreenShots/5biit.png)
+![sim](ScreenShots/5bit.png)
 > Fig.11 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 32 steps in the analog output as the system was given 5 digital input bits.
@@ -91,7 +91,7 @@ Here we get 32 steps in the analog output as the system was given 5 digital inpu
 ![schematic](ScreenShots/6bitcircuit.png)
 > Fig.12 Circuit Schematic of a 6-bit DAC designed in eSim
 
-![sim](ScreenShots/6biit.png)
+![sim](ScreenShots/6bit.png)
 > Fig.13 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 64 steps in the analog output as the system was given 6 digital input bits.
@@ -102,7 +102,7 @@ Here we get 64 steps in the analog output as the system was given 6 digital inpu
 ![schematic](ScreenShots/7bitcircuit.png)
 > Fig.14 Circuit Schematic of a 7-bit DAC designed in eSim
 
-![sim](ScreenShots/7biit.png)
+![sim](ScreenShots/7bit.png)
 > Fig.15 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 128 steps in the analog output as the system was given 7 digital input bits.
@@ -113,7 +113,7 @@ Here we get 128 steps in the analog output as the system was given 7 digital inp
 ![schematic](ScreenShots/8bitcircuit.png)
 > Fig.16 Circuit Schematic of a 8-bit DAC designed in eSim
 
-![sim](ScreenShots/8biit.png)
+![sim](ScreenShots/8bit.png)
 > Fig.17 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 256 steps in the analog output as the system was given 8 digital input bits.
@@ -124,7 +124,7 @@ Here we get 256 steps in the analog output as the system was given 8 digital inp
 ![schematic](ScreenShots/9bitcircuit.png)
 > Fig.18 Circuit Schematic of a 9-bit DAC designed in eSim
 
-![sim](ScreenShots/9biit.png)
+![sim](ScreenShots/9bit.png)
 > Fig.19 Transient Analysis of the 2-bit circuit in pgspice
 
 Here we get 512 steps in the analog output as the system was given 9 digital input bits.
